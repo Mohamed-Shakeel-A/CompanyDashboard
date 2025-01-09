@@ -1,0 +1,4 @@
+--Understood the objective of the project
+--Created a frontend template file structure for the frontend of the project
+--Created a repo in the github to work collaborately
+--Started with base commint in the git repo
